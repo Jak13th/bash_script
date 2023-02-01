@@ -3,6 +3,7 @@
 
 echo "exe files: " > list_exec.txt
 echo "Non exe files: " > list_no_exec.txt
+echo "Directory: " > list_rep.txt
 
 exec=0
 no_exec=0

@@ -1,3 +1,6 @@
+#! /bin/bash
+# script for findout.sh
+
 echo "exe files: " > list_exec.txt
 echo "Non exe files: " > list_no_exec.txt
 
